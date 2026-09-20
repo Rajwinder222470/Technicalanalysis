@@ -1,0 +1,12 @@
+# R / RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Generated output
+statistics_output.csv
+
+# OS files
+.DS_Store
+Thumbs.db

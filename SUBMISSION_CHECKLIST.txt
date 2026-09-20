@@ -1,0 +1,17 @@
+Rajwinder Kaur - BDA400 - ASSIGNMENT 2
+FINAL CHECKLIST
+
+[ ] Rename/confirm GitHub repository: TechnicalAnalysis
+[ ] Open project in RStudio
+[ ] Confirm R and Git are installed
+[ ] Install/load quantmod and TTR
+[ ] Run load_and_statistics.R successfully
+[ ] Confirm statistics_output.csv is generated
+[ ] Run display_and_visualizations.R successfully
+[ ] Capture real RStudio screenshots
+[ ] Capture real GitHub repository screenshot
+[ ] Insert screenshots into the Word report
+[ ] Review spelling and formatting
+[ ] Commit final files
+[ ] Push final files to GitHub
+[ ] Submit the Word report + required R files + portfolio.txt
